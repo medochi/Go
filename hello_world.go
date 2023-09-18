@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("mazzen is here")
+	fmt.Println("mazzefdgn is here")
 	fmt.Println("sum")
 }
