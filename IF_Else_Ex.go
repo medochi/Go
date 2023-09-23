@@ -46,6 +46,6 @@ func checker(usr int, day int) {
 }
 
 func main() {
-	rule, today := Contractor, Friday
+	rule, today := Guest, Tuseday
 	checker(rule, today)
 }
